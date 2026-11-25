@@ -1,0 +1,4 @@
+pergunta;alternativa1;alternativa2;alternativa3;correta
+Qual padrão cria objetos complexos passo a passo?;Adapter;Builder;Observer;2
+Qual padrão notifica inscritos quando ocorre um evento?;Observer;Builder;Adapter;1
+Qual padrão adapta uma interface para outra esperada pelo cliente?;Builder;Adapter;Observer;2
